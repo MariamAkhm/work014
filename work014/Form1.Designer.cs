@@ -50,7 +50,6 @@ namespace work014
             this.nameT.Name = "nameT";
             this.nameT.Size = new System.Drawing.Size(157, 27);
             this.nameT.TabIndex = 1;
-            this.nameT.Click += new System.EventHandler(this.ClickT);
             this.nameT.TextChanged += new System.EventHandler(this.nameT_TextChanged);
             // 
             // startB
